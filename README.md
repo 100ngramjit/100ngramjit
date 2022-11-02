@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **GraphQL,vim,web 3.0**
 
-- 👯 I’m looking to collaborate on **web 3.0 projects**
-
-- 🤝 I’m looking for help with **projects based on React.js,TypeScript,Vanilla Js,Frontend and fullstack development**
-
 - 💬 Ask me about **TypeScript,React.js,Vanilla js**
 
 - 📫 How to reach me **sangramjitdutta@gmail.com**
