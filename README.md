@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=100ngramjit&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="100ngramjit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=100ngramjit&theme=cobalt&show_icons=true&locale=en" alt="100ngramjit" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=100ngramjit&theme=cobalt&show_icons=true&locale=en" alt="100ngramjit" /></p>
