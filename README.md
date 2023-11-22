@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal project
 
-- 🌱 I’m currently learning **GraphQL,vim,web 3.0**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **TypeScript,React.js,Vanilla js**
 
