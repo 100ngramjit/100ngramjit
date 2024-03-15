@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal project
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **TypeScript,React.js,Vanilla js**
 
