@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 💬 Ask me about **TypeScript,React.js,Vanilla js**
+- 💬 Ask me about **TypeScript, Next.js, React.js**
 
 - 📫 How to reach me **sangramjitdutta@gmail.com**
 
