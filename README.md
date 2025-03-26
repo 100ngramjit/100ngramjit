@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a personal project
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **FastAPI**
 
 - 💬 Ask me about **TypeScript, Next.js, React.js**
 
