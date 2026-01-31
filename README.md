@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangramjit</h1>
 <h3 align="center">A self-taught,passionate web developer from Assam,India</h3>
 
-- 🔭 I’m currently working on a personal project
+- 🔭 I’m currently working on [Padho](https://padho-ai-book-recommender.vercel.app)
 
 - 🌱 I’m currently learning **FastAPI**
 
